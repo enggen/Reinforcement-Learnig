@@ -1,3 +1,3 @@
 # Reinforcement-Learning
 Reinforcement Learning Projects 
-1. Q Learning
+1.  Deep Q Learning
